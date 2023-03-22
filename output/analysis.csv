@@ -1,5 +1,4 @@
 nameWithOwner,url,createdAt,stargazers,releases,loc,cbo,dit,lcom
-Snailclimb/JavaGuide,https://github.com/Snailclimb/JavaGuide,2018-05-07T13:27:00Z,131969,0,0,,,
 iluwatar/java-design-patterns,https://github.com/iluwatar/java-design-patterns,2014-08-09T16:45:18Z,80287,0,32511,3.0,6.0,0.0
 MisterBooo/LeetCodeAnimation,https://github.com/MisterBooo/LeetCodeAnimation,2018-12-06T08:01:22Z,72530,0,78,1.0,1.0,0.0
 spring-projects/spring-boot,https://github.com/spring-projects/spring-boot,2012-10-19T15:02:57Z,66113,163,311815,4.0,13.0,0.0
@@ -125,7 +124,6 @@ HarlonWang/AVLoadingIndicatorView,https://github.com/HarlonWang/AVLoadingIndicat
 googlesamples/easypermissions,https://github.com/googlesamples/easypermissions,2015-12-22T18:05:53Z,9638,12,1705,8.0,3.0,6.0
 liaohuqiu/android-Ultra-Pull-To-Refresh,https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh,2014-11-13T03:13:10Z,9623,8,5476,2.0,5.0,0.0
 TooTallNate/Java-WebSocket,https://github.com/TooTallNate/Java-WebSocket,2010-01-20T23:33:04Z,9619,14,14502,2.0,7.0,3.5
-react-native-camera/react-native-camera,https://github.com/react-native-camera/react-native-camera,2015-04-01T00:54:40Z,9615,144,0,,,
 ksoichiro/Android-ObservableScrollView,https://github.com/ksoichiro/Android-ObservableScrollView,2014-11-08T14:45:20Z,9610,0,12621,3.0,7.0,0.0
 perwendel/spark,https://github.com/perwendel/spark,2011-05-05T11:52:05Z,9465,0,9588,3.0,5.0,0.0
 umano/AndroidSlidingUpPanel,https://github.com/umano/AndroidSlidingUpPanel,2013-05-31T18:33:53Z,9453,8,2011,2.0,4.0,0.0
@@ -769,7 +767,6 @@ zhanghai/MaterialProgressBar,https://github.com/zhanghai/MaterialProgressBar,201
 apache/geode,https://github.com/apache/geode,2015-04-30T07:00:05Z,2187,26,1228724,3.0,24.0,0.0
 Prototik/HoloEverywhere,https://github.com/Prototik/HoloEverywhere,2012-03-05T12:37:20Z,2183,2,55556,4.0,17.0,1.0
 konsoletyper/teavm,https://github.com/konsoletyper/teavm,2013-09-23T20:04:15Z,2183,11,268594,3.0,48.0,1.0
-unofficial-openjdk/openjdk,https://github.com/unofficial-openjdk/openjdk,2012-08-09T20:39:52Z,2181,0,0,,,
 lealone/Lealone,https://github.com/lealone/Lealone,2013-01-08T13:57:08Z,2178,3,89950,5.0,9.0,3.0
 avast/android-styled-dialogs,https://github.com/avast/android-styled-dialogs,2013-05-25T07:35:52Z,2168,8,2017,3.0,4.0,0.0
 square/mortar,https://github.com/square/mortar,2013-11-09T00:01:50Z,2168,0,4316,3.0,4.0,0.0
